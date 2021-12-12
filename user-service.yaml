@@ -4,7 +4,7 @@ spring:
       database: store
 
 my:
-  message: "HI from users service 2"
+  message: "HI from users service"
 
 server:
   port: 8081
