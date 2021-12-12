@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      database: store
+
+my:
+  message: "HI 2"

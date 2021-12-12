@@ -1,0 +1,16 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    shutdown:
+      enabled: true
+
+spring:
+  data:
+    mongodb:
+      database: store
+
+microservices:
+  message: "HI 2"
