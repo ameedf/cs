@@ -5,3 +5,6 @@ spring:
 
 my:
   message: "HI 2"
+
+server:
+  port: 8081
